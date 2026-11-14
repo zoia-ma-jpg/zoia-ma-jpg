@@ -1,6 +1,6 @@
 # Business Analyst Trainee
 ## Professional Profile
-Business Analyst Trainee with extensive experience in business process management and strategic development across various industries and markets. Through practical coursework, I am developing skills in analyzing business needs, documenting requirements, and modeling processes. I draw on my business background to understand stakeholder perspectives and connect requirements with business goals.
+Business Analyst Trainee currently developing skills in business process analysis, requirements documentation, and process modeling. I have a background in business and strategic development across various industries and markets, which helps me understand stakeholder perspectives and business goals.
 
 ## Skills
 ### Business analysis
